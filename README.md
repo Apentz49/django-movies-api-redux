@@ -38,6 +38,8 @@ Required functionality to implment:
  - Update existing fields on an existing movie
  - Delete an existing movie
  - Secure endpoints to the owner or a superuser
+ - Use both basic and token authentication schemes
+ - Create tests to test the endpoints
 
 You must use Django Rest Framework for this homework. How you do this is up to you as the framework is large.  
 
