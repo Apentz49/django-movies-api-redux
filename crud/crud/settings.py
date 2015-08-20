@@ -41,6 +41,9 @@ INSTALLED_APPS = (
     'rest_framework.authtoken',
     'movie',
     'api',
+    'django_extensions',
+    'debug_toolbar',
+
 )
 
 MIDDLEWARE_CLASSES = (
